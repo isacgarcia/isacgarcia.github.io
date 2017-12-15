@@ -1,0 +1,181 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="isagarciabook.me" resolutions="1x" timestamp="1513307054316">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="57127219" ref="index:my-work:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:my-work:contact:about"/>
+    <file name="index.css" crc="130057841" ref="index"/>
+    <file name="nomq_index.css" crc="3905921784" ref="index"/>
+    <file name="my-work.css" crc="322698389" ref="my-work"/>
+    <file name="nomq_my-work.css" crc="4230659498" ref="my-work"/>
+    <file name="contact.css" crc="482033865" ref="contact"/>
+    <file name="nomq_contact.css" crc="4188026295" ref="contact"/>
+    <file name="about.css" crc="4246305767" ref="about"/>
+    <file name="nomq_about.css" crc="3849383474" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:my-work:contact"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:my-work:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:my-work:contact"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:about:my-work:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:my-work:contact"/>
+    <file name="webpro.js" crc="3770351119" ref="index:my-work:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:my-work"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:my-work"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:my-work"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:my-work:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:my-work:contact"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about:my-work:contact"/>
+    <file name="require.js" crc="4234670167" ref="index:about:my-work:contact"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u2674.php" crc="4087368294" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="isa garcia logo 1.png" crc="219456983" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3315-crop-u2211.jpg" crc="3812829180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:my-work:contact"/>
+    <file name="img_3315-crop-u3678.jpg" crc="4001053995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7648-crop-u2541.jpg" crc="159126127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noticias estrellas logo-crop-u2580.png" crc="130608986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:my-work"/>
+    <file name="iconmonstr-twitter-1.svg" crc="352012439" ref="index"/>
+    <file name="iconmonstr-twitter-1_poster_u710.png" crc="228996227" ref="index"/>
+    <file name="iconmonstr-instagram-11.svg" crc="4249727278" ref="index"/>
+    <file name="iconmonstr-instagram-11_poster_u721.png" crc="4022000864" ref="index"/>
+    <file name="iconmonstr-facebook-3.svg" crc="215109004" ref="index"/>
+    <file name="iconmonstr-facebook-3_poster_u732.png" crc="3927863787" ref="index"/>
+    <file name="img_3315-crop-u22112.jpg" crc="463488516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3315-crop-u36782.jpg" crc="4001053995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7648-crop-u25412.jpg" crc="3962401845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noticias estrellas logo-crop-u25802.png" crc="3832452298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3165-u740-fr.jpg" crc="491461060" ref="about"/>
+    <file name="img_3165-u740-fr2.jpg" crc="3962911828" ref="about"/>
+    <file name="img_1290.jpg" crc="3805905666" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_6211.jpg" crc="3823017133" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_9364.jpg" crc="29546384" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_129068x45.jpg" crc="4099044178" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_621168x45.jpg" crc="521595486" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_936468x45.jpg" crc="75012096" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7035-crop-u3166.jpg" crc="103220470" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7270-crop-u3198.jpg" crc="4037707107" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_1491-crop-u3238.jpg" crc="3983845715" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7035-crop-u3176.jpg" crc="3956409470" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7270-crop-u3207.jpg" crc="384166960" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_1491-crop-u3248.jpg" crc="79283432" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="the peaceful mind factory logo602x334.png" crc="414915166" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="tumortgage logo 3669x215.png" crc="503454221" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="noticias estrellas logo339x344.png" crc="4291689819" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="the peaceful mind factory logo-crop-u3436.png" crc="4067540535" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="tumortgage logo 3-crop-u3467.png" crc="202314162" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="noticias estrellas logo-crop-u3507.png" crc="4267582029" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_1290541x360.jpg" crc="3929541716" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_6211541x360.jpg" crc="482041895" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_9364541x360.jpg" crc="4007413798" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7035-crop-u31662.jpg" crc="3876729173" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7270-crop-u31982.jpg" crc="4166622788" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_1491-crop-u32382.jpg" crc="3904262128" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7035-crop-u31762.jpg" crc="3956409470" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_7270-crop-u32072.jpg" crc="384166960" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="img_1491-crop-u32482.jpg" crc="79283432" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="the peaceful mind factory logo.png" crc="106395517" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="tumortgage logo 3-crop-u3458.png" crc="4111693339" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="noticias estrellas logo-crop-u3497.png" crc="3928937727" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="the peaceful mind factory logo-crop-u34362.png" crc="4067540535" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="tumortgage logo 3-crop-u34672.png" crc="3992416068" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+    <file name="noticias estrellas logo-crop-u35072.png" crc="4267582029" seo="true" ref="my-work">
+      <caption webpage="my-work" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3925801213" seo="true" mt="1513307045114" redirect="true"/>
+  <file name="about.html" crc="391551967" seo="true" mt="1513114667450" redirect="true"/>
+  <file name="my-work.html" crc="309859767" seo="true" mt="1513114643714" redirect="true"/>
+  <file name="contact.html" crc="202401096" seo="true" mt="1513114643714" redirect="true"/>
+</manifest>
